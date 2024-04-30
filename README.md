@@ -1,4 +1,4 @@
-# FineBlog
+# Blog.Tech
 
 Beautiful blog website made on .Net Core MVC and SQL Server.
 ## Features
@@ -10,42 +10,8 @@ Beautiful blog website made on .Net Core MVC and SQL Server.
 
 .Net Core MVC, SQL SERVER
 
-## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/saileshrijal/FineBlog
-
-Go to the project directory
-
-```bash
-  cd FineBlog
-```
-
-Update database via Package Manager Console
-
-```bash
-  update-database
-```
-Update database via dotnet cli
-
-```bash
-  dotnet ef database update
-```
-
-Start/run the project
-
-```bash
-  dotnet watch
-```
-
-Build the project
-
-```bash
-  dotnet build
-```
-Build project is located on bin directory
 ### Screenshots
 ![1](https://user-images.githubusercontent.com/88402075/236395631-a003ec74-1a94-4021-aec8-c98d2501bf0f.png)
 
@@ -69,6 +35,4 @@ Build project is located on bin directory
 
 ![11](https://user-images.githubusercontent.com/88402075/236395614-cc65a5b7-ef07-4b4b-9224-92b1fb39e417.png)
 
-## Demo
 
-Website Link Coming Soon
